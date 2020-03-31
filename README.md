@@ -2,9 +2,9 @@
 ## Offered by Microsoft through edX
 
 ## Module 1 | What is an Object
-Arrays \n
-2D Arrays
-Array Lists
+* Arrays 
+* 2D Arrays
+* Array Lists
 ###### Project - Battleship
 
 ## Module 2 | Building Your Own Objects
