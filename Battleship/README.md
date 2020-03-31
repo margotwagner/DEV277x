@@ -1,4 +1,4 @@
 # BattleShip
-Recreating the game of battleship. A player places 5 of their ships on a 10 by 10 grid. The computer player will deploy five ships on the same grid randomly. 
+This project works with arrays recreating the game of battleship. A player places 5 of their ships on a 10 by 10 grid. The computer player will deploy five ships on the same grid randomly. 
 Once the game starts, the player and computer take turns trying to sink each other's ships by guessing the coordinates to "attack". The game ends when either the player 
 or computer has no ships left.
