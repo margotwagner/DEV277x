@@ -15,19 +15,13 @@
 * **Project - FractionCalculator**
 
 ## Module 3 | Object Inheritance
-What is Inheritance
-Super
-Polymorphism
-Abstract Classes
-Interfaces
-###### Project - Company Structure
+* What is Inheritance
+* Super
+* Polymorphism
+* Abstract Classes
+* Interfaces
+* **Project - Company Structure**
 
 ## Module 4 | Capstone Project
-Animal Kingdom
-
-
-
-
-
-### Project Descriptions
+* **Final Project - Animal Kingdom**
 
